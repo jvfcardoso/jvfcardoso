@@ -12,7 +12,7 @@
   Principais tecnologias que conheço:
   
   <div style="display: inline_block"><br>
-    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target=_blank> <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
