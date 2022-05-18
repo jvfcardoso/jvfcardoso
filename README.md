@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.github.com/jvfcardoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvfcardoso&show_icons=true&theme=midnight-purple&count_private=true&env_variable=PAT_1"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvfcardoso&show_icons=true&theme=midnight-purple&count_private=true&PAT_1=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"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvfcardoso&theme=midnight-purple"/>
   </a>
 </div>
