@@ -27,7 +27,7 @@
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-freire-cardoso-b444731b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"/></a>
+  <a href="[[https://www.linkedin.com/in/jo%C3%A3o-victor-freire-cardoso-b444731b5/](https://www.linkedin.com/in/jo%C3%A3o-victor-b444731b5/)](https://www.linkedin.com/in/jo%C3%A3o-victor-b444731b5/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"/></a>
   <a href="https://steamcommunity.com/id/jvfcardoso/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/></a>
 </div>
   
